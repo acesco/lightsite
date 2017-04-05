@@ -1,0 +1,1 @@
+You have successfully added an article.
